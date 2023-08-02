@@ -1,1 +1,5 @@
 # Visual-Question-Answering
+
+We aim to work towards solving the problem of Visual Question Answering. It is an existing field that has areas for improvement and has seen rapid development in recent years, but the results still haven’t been exceptional. Deep Learning has been instrumental in solving complex problems such as cancer prediction but tasks that are trivial for humans, such as basic VQA, are still a great challenge for DL techniques. We endeavour to help understand and solve this problem better. Our aim is to be able to answer open-ended questions from images of a variety of scenarios. This would require the use of a vast set of techniques from different disciplines. For example, objects would need to be identified, colours identified, and natural language processing techniques will be used to understand and create sentence structure. The answers would range from simple one-word answers like yes and no to simple phrases. In our final model, we use multi-modal transfer learning and build upon pretrained existing models to improve accuracy and reduce the memory and time required to achieve this goal. 
+
+
